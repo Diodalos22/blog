@@ -33,3 +33,4 @@ If $\mathcal{B}$ satisfies these two conditions, then we define the topology $\m
 
 **Lemma**
 
+![[Pasted image 20250823025409.png]]
