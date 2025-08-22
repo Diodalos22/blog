@@ -3,4 +3,4 @@ title: Welcome to Quartz
 ---
 
 npx quartz sync
-![[Pasted image 20250823034639.png]]
+![](docs/images/Pasted%20image%2020250823035126.png)
