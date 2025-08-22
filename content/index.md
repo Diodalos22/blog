@@ -1,7 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Diodalos blog
 ---
-
-왜 안될고...
-
-![](content/images/20250823035803.png)
+1. Math
+2. Physics
+3. Control
